@@ -1,0 +1,81 @@
+id,name,set,number,hp,image_path
+sv3-6,Surskit,sv3,6,60,data/catalog/images/sv3/6.jpg
+sv3-2,Gloom,sv3,2,80,data/catalog/images/sv3/2.jpg
+sv3-1,Oddish,sv3,1,50,data/catalog/images/sv3/1.jpg
+sv3-11,Phantump,sv3,11,60,data/catalog/images/sv3/11.jpg
+sv3-17,Steenee,sv3,17,90,data/catalog/images/sv3/17.jpg
+sv3-27,Charmeleon,sv3,27,90,data/catalog/images/sv3/27.jpg
+sv3-32,Camerupt,sv3,32,140,data/catalog/images/sv3/32.jpg
+sv3-33,Victini ex,sv3,33,190,data/catalog/images/sv3/33.jpg
+sv3-35,Darmanitan,sv3,35,140,data/catalog/images/sv3/35.jpg
+sv3-4,Scyther,sv3,4,80,data/catalog/images/sv3/4.jpg
+sv3-9,Foongus,sv3,9,50,data/catalog/images/sv3/9.jpg
+sv3-24,Capsakid,sv3,24,70,data/catalog/images/sv3/24.jpg
+sv3-25,Scovillain,sv3,25,110,data/catalog/images/sv3/25.jpg
+sv3-31,Numel,sv3,31,90,data/catalog/images/sv3/31.jpg
+sv3-34,Darumaka,sv3,34,80,data/catalog/images/sv3/34.jpg
+sv3-8,Combee,sv3,8,50,data/catalog/images/sv3/8.jpg
+sv3-3,Bellossom,sv3,3,130,data/catalog/images/sv3/3.jpg
+sv3-5,Shuckle,sv3,5,80,data/catalog/images/sv3/5.jpg
+sv3-7,Masquerain,sv3,7,100,data/catalog/images/sv3/7.jpg
+sv3-10,Amoonguss,sv3,10,110,data/catalog/images/sv3/10.jpg
+sv3-12,Trevenant,sv3,12,140,data/catalog/images/sv3/12.jpg
+sv3-15,Decidueye ex,sv3,15,320,data/catalog/images/sv3/15.jpg
+sv3-16,Bounsweet,sv3,16,60,data/catalog/images/sv3/16.jpg
+sv3-18,Tsareena,sv3,18,160,data/catalog/images/sv3/18.jpg
+sv3-19,Smoliv,sv3,19,50,data/catalog/images/sv3/19.jpg
+sv3-20,Dolliv,sv3,20,80,data/catalog/images/sv3/20.jpg
+sv3-22,Toedscruel ex,sv3,22,270,data/catalog/images/sv3/22.jpg
+sv3-28,Vulpix,sv3,28,60,data/catalog/images/sv3/28.jpg
+sv3-13,Rowlet,sv3,13,70,data/catalog/images/sv3/13.jpg
+sv3-14,Dartrix,sv3,14,90,data/catalog/images/sv3/14.jpg
+sv3-21,Arboliva,sv3,21,140,data/catalog/images/sv3/21.jpg
+sv3-23,Capsakid,sv3,23,50,data/catalog/images/sv3/23.jpg
+sv3-26,Charmander,sv3,26,60,data/catalog/images/sv3/26.jpg
+sv3-29,Ninetales,sv3,29,120,data/catalog/images/sv3/29.jpg
+sv3-30,Entei,sv3,30,130,data/catalog/images/sv3/30.jpg
+sv3-36,Litwick,sv3,36,60,data/catalog/images/sv3/36.jpg
+sv3-42,Eiscue ex,sv3,42,210,data/catalog/images/sv3/42.jpg
+sv3-45,Lapras,sv3,45,110,data/catalog/images/sv3/45.jpg
+sv3-48,Buizel,sv3,48,70,data/catalog/images/sv3/48.jpg
+sv3-54,Beartic,sv3,54,150,data/catalog/images/sv3/54.jpg
+sv3-58,Wiglett,sv3,58,60,data/catalog/images/sv3/58.jpg
+sv3-60,Finizen,sv3,60,50,data/catalog/images/sv3/60.jpg
+sv3-62,Palafin,sv3,62,150,data/catalog/images/sv3/62.jpg
+sv3-64,Magneton,sv3,64,90,data/catalog/images/sv3/64.jpg
+sv3-65,Magnezone,sv3,65,170,data/catalog/images/sv3/65.jpg
+sv3-70,Thundurus,sv3,70,110,data/catalog/images/sv3/70.jpg
+sv3-71,Toxel,sv3,71,70,data/catalog/images/sv3/71.jpg
+sv3-74,Tadbulb,sv3,74,50,data/catalog/images/sv3/74.jpg
+sv3-82,Clefable ex,sv3,82,260,data/catalog/images/sv3/82.jpg
+sv3-86,Espeon,sv3,86,110,data/catalog/images/sv3/86.jpg
+sv3-88,Granbull,sv3,88,130,data/catalog/images/sv3/88.jpg
+sv3-94,Baltoy,sv3,94,70,data/catalog/images/sv3/94.jpg
+sv3-95,Claydol,sv3,95,120,data/catalog/images/sv3/95.jpg
+sv3-96,Vespiquen ex,sv3,96,270,data/catalog/images/sv3/96.jpg
+sv3-97,Sinistea,sv3,97,30,data/catalog/images/sv3/97.jpg
+sv3-103,Diglett,sv3,103,50,data/catalog/images/sv3/103.jpg
+sv3-108,Barboach,sv3,108,70,data/catalog/images/sv3/108.jpg
+sv3-109,Whiscash,sv3,109,140,data/catalog/images/sv3/109.jpg
+sv3-114,Crabrawler,sv3,114,90,data/catalog/images/sv3/114.jpg
+sv3-115,Crabominable,sv3,115,160,data/catalog/images/sv3/115.jpg
+sv3-116,Rockruff,sv3,116,60,data/catalog/images/sv3/116.jpg
+sv3-117,Lycanroc,sv3,117,130,data/catalog/images/sv3/117.jpg
+sv3-121,Glimmet,sv3,121,60,data/catalog/images/sv3/121.jpg
+sv3-127,Paldean Wooper,sv3,127,70,data/catalog/images/sv3/127.jpg
+sv3-129,Paldean Clodsire,sv3,129,140,data/catalog/images/sv3/129.jpg
+sv3-39,Heatmor,sv3,39,110,data/catalog/images/sv3/39.jpg
+sv3-49,Floatzel,sv3,49,110,data/catalog/images/sv3/49.jpg
+sv3-50,Tympole,sv3,50,70,data/catalog/images/sv3/50.jpg
+sv3-53,Cubchoo,sv3,53,70,data/catalog/images/sv3/53.jpg
+sv3-55,Cryogonal,sv3,55,90,data/catalog/images/sv3/55.jpg
+sv3-63,Magnemite,sv3,63,60,data/catalog/images/sv3/63.jpg
+sv3-66,Tyranitar ex,sv3,66,340,data/catalog/images/sv3/66.jpg
+sv3-67,Tynamo,sv3,67,40,data/catalog/images/sv3/67.jpg
+sv3-68,Eelektrik,sv3,68,90,data/catalog/images/sv3/68.jpg
+sv3-69,Eelektross,sv3,69,160,data/catalog/images/sv3/69.jpg
+sv3-76,Tadbulb,sv3,76,60,data/catalog/images/sv3/76.jpg
+sv3-80,Cleffa,sv3,80,30,data/catalog/images/sv3/80.jpg
+sv3-81,Clefairy,sv3,81,60,data/catalog/images/sv3/81.jpg
+sv3-83,Togepi,sv3,83,50,data/catalog/images/sv3/83.jpg
+sv3-85,Togekiss,sv3,85,150,data/catalog/images/sv3/85.jpg
